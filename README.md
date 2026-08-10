@@ -2,6 +2,8 @@
 
 JLPT Drill is a free, native macOS study app with a complete offline Japanese–English dictionary, two-way vocabulary and kanji flashcards, structured JLPT lessons, reading practice, checkpoints, and progress tracking.
 
+[![Latest release](https://img.shields.io/github/v/release/theisegoria/JLPTDrill-macOS?label=latest)](https://github.com/theisegoria/JLPTDrill-macOS/releases/latest)
+
 ## Download
 
 ### [Download JLPT Drill 3.0.0 for macOS](https://github.com/theisegoria/JLPTDrill-macOS/releases/download/v3.0.0/JLPTDrill-3.0.0-macOS-universal.zip)
