@@ -2,17 +2,17 @@
 
 JLPT Drill is a free, native, offline-first macOS study app for Japanese vocabulary, kanji, grammar, reading, listening, flashcards, and mock-exam preparation. It prepares you for both the JLPT (N5-N1) and JFT-Basic.
 
-[![v7.0.0 beta](https://img.shields.io/badge/release-v7.0.0%20beta-orange)](https://github.com/theisegoria/JLPTDrill-macOS/releases/tag/v7.0.0)
+[![v7.0.1 beta](https://img.shields.io/badge/release-v7.0.1%20beta-orange)](https://github.com/theisegoria/JLPTDrill-macOS/releases/tag/v7.0.1)
 
 ## Download
 
-### [Download Japanese Exam Drill 7.0.0 Beta for macOS](https://github.com/theisegoria/JLPTDrill-macOS/releases/download/v7.0.0/JLPTDrill-7.0.0-macOS-arm64.zip)
+### [Download Japanese Exam Drill 7.0.1 Beta for macOS](https://github.com/theisegoria/JLPTDrill-macOS/releases/download/v7.0.1/JLPTDrill-7.0.1-macOS-arm64.zip)
 
 - Apple silicon Mac only (arm64), with at least 8 GB memory
 - Requires macOS 26 or later
 - Free to download and use
 - Approximately 1.7 GB compressed because the offline Qwen speech model is bundled
-- Archive SHA-256: `da7ca6580fbc22a98f0281b15578b2db656a7b098f998ffb014e8963fdef30d9`
+- Archive SHA-256: `71ca3cf67937cf61e4100290deee0f660d991b25a81d55abedbdefafe33c371d`
 
 ## What's in v7
 
